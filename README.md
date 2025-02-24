@@ -1,4 +1,4 @@
-# untitled
+# Bookly App
 
 A new Flutter project.
 
